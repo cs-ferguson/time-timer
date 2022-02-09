@@ -1,0 +1,1 @@
+Document.getElementById("timer-container").innerHtml("<h1>Hello World!</h1>");
